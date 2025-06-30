@@ -41,4 +41,4 @@ Kubernetes 發展非常迅速，已經成為容器編排領域的領導者。 Ku
 [署名-非商業性使用-相同方式共享 4.0 \(CC BY-NC-SA 4.0\)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。
 
 ## 項目類型
-該專案使用 Docusaurus 開發。
+該專案使用 [Docusaurus](https://docusaurus.io/) 開發。
