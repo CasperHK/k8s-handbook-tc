@@ -30,7 +30,7 @@ Kubernetes 發展非常迅速，已經成為容器編排領域的領導者。 Ku
 
 ## 貢獻者
 
-歡迎參與貢獻和完善內容，貢獻方法參考 [CONTRIBUTING](https://github.com/feiskyer/kubernetes-handbook/blob/master/CONTRIBUTING.md)。感谢所有的贡献者，贡献者列表见 [contributors](https://github.com/feiskyer/kubernetes-handbook/graphs/contributors)。
+歡迎參與貢獻和完善內容，貢獻方法參考 [CONTRIBUTING](https://github.com/feiskyer/kubernetes-handbook/blob/master/CONTRIBUTING.md)。感謝所有的貢獻者，貢獻者清單見 [contributors](https://github.com/feiskyer/kubernetes-handbook/graphs/contributors)。
 
 [![](https://opencollective.com/kubernetes-handbook/contributors.svg?width=890&button=false)](https://github.com/feiskyer/kubernetes-handbook/graphs/contributors)
 
