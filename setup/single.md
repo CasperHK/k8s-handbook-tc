@@ -1,10 +1,10 @@
-# 单机部署
+# 單機部署
 
 ## minikube
 
-创建 Kubernetes cluster（单机版）最简单的方法是 [minikube](https://github.com/kubernetes/minikube)。国内网络环境下也可以考虑使用 [kubeasz](https://github.com/gjmzj/kubeasz) 的 AllInOne 部署。
+創作 Kubernetes cluster（單機版）最簡單的方法是 [minikube](https://github.com/kubernetes/minikube)。國內網路環境下也可以考慮使用 [kubeasz](https://github.com/gjmzj/kubeasz) 的 AllInOne 部署。
 
-首先下载 kubectl
+首先下載 kubectl
 
 ```bash
 curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl
